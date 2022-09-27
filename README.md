@@ -1,6 +1,7 @@
 # ac_current_generator
 
 ![schematic](images/ac_current_generator.jpg)
+[schematic in PDF format](ac_current_generator.pdf)
 
 ## Video with the circuit description
 
