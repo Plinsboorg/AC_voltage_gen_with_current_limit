@@ -13,11 +13,11 @@ This particular circuit gives the MCU an abilty to generate AC current with requ
 Insparation is that you can copy the repo and get a reusable circuit block. 
 
 ## Support
-Please, contact me if you need any help
-Telegramm: https://t.me/Plinsboorg
-Email: dennis.yaskevich@proton.me
-I do commercial electronics design and consulting.
-I can also help you for free if you're doing an open hardware project.
+Please, contact me if you need any help <br>
+Telegramm: https://t.me/Plinsboorg <br>
+Email: dennis.yaskevich@proton.me <br>
+I do commercial electronics design and consulting. <br>
+I can also help you for free if you're doing an open hardware project.<br>
 
 ## Roadmap
 I'll continue adding intresting analog circuits as separate repos
