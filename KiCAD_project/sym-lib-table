@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Project_lib")(type "KiCad")(uri "${KIPRJMOD}/Project_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "ad8066arz-rl")(type "KiCad")(uri "D:/Nextcloud/Projects/_Electonics/KiCAD/my_lib/ad8066arz-rl.kicad_sym")(options "")(descr ""))
+)
