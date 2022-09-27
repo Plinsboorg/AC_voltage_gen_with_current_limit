@@ -1,5 +1,7 @@
 # ac_current_generator
 
+![schematic](images/ac_current_generator.jpg)
+
 ## Video with the circuit description
 
 https://youtu.be/Bf4n697qHjU
